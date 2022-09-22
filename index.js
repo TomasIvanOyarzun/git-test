@@ -12,3 +12,11 @@ function laCajaDePandora(numero) {
     return binary;
   }
 }
+function angel() {
+  let angel = {
+    name: "Angel",
+    age: 27,
+    nationality: "argentino, papá",
+  };
+  return angel;
+}
